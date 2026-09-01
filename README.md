@@ -51,17 +51,4 @@ my portfolio.
 
 <br>
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top languages" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>Replace <code>YOUR_GITHUB_USERNAME</code> above with your actual GitHub handle.</sub>
-</div>
